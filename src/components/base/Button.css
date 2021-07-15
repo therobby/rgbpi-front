@@ -1,0 +1,12 @@
+.Button {
+	background-color: blue;
+	background-image: radial-gradient(circle 465px at -15.1% -25%, rgba(17, 130, 193, 1) 0%, rgba(67, 166, 238, 1) 49%, rgba(126, 203, 244, 1) 90.2%);
+	/* color: whitesmoke;
+	font-weight: 24;
+	font-size: 18px;
+	border-width: 0;
+	outline: none;
+	border-color: rgba(17, 130, 193, 1);
+	box-shadow: 0 1px 4px rgba(17, 130, 193, 1);
+	padding: 8px; */
+}
